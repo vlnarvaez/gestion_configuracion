@@ -53,4 +53,8 @@ public class Lector {
                 System.out.println(" .");
             }
     }
+
+    public String retornarVariable(){
+        return null;
+    }
 }
